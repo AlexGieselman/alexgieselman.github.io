@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Softmore at <a href='www.iastate.edu'>Iowa State University</a>. 319-284-2088
 
 profile:
   align: right
