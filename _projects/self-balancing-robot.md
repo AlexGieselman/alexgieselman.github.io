@@ -14,11 +14,11 @@ The robot balances on two wheels by continuously reading its tilt angle and driv
 
 ## Hardware
 
-- **Microcontroller:** (add your MCU here)
-- **IMU:** (add your sensor, e.g. MPU-6050) for pitch angle measurement
+- **Microcontroller:** _TODO_
+- **IMU:** _TODO_ (e.g. MPU-6050) for pitch angle measurement
 - **Motors:** DC gear motors with encoders
-- **Motor driver:** (add your driver, e.g. L298N)
-- **Power:** (add your battery setup)
+- **Motor driver:** _TODO_ (e.g. L298N)
+- **Power:** _TODO_
 
 ## Control System
 
@@ -38,4 +38,4 @@ $$
 
 ## Results
 
-(Add a short description of how well it worked, demo video link, or what you'd improve.)
+_TODO: how well it balanced, demo video/photo link, what you'd improve next time._
